@@ -7,5 +7,5 @@ namespace Support\Entity;
 
 interface Participant
 {
-
+	Player::getUniqueId()->toString();
 }

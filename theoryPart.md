@@ -1,8 +1,15 @@
 	#### Théorie
 
 	* 1 point pour donner les noms de fichiers et les lignes de ces fichiers dans lesquelles un mécanisme d'inversion de dépendance est à l'oeuvre.
+
+	
 	* 2 points pour un diagramme de classe incluant les classes et interfaces que vous avez créé ainsi que celles dont vous dépendez
+
+	Voir diagramConnect4.xml ficher à la racine.
+
 	* 2 points pour un court argumentaire sur le thème "héritage vs composition", avantage et inconvénient de chaque (un travail de recherche court est donc à effectuer, "Composition over inheritance" en anglais). Le texte fourni doit faire 500 mots.
+
+	L'argumentaire est rédigé ci-dessous.
 
 
 
